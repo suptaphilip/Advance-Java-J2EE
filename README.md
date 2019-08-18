@@ -33,7 +33,7 @@
 
 ### Lecture Sildes
 
->[Introduction]()
+>[Introduction](https://github.com/suptaphilip/Advance-Java-J2EE/blob/J2EE/L1.pdf)
 
 >[UML Class Diagram Relationship](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/Class%20Diagram%20Relationships.pdf)
 
@@ -50,7 +50,7 @@
 
 
 ### Sample Questions
->[AI_Mid_Fall17]()
+>[Mid_Fall17]()
 
 >[Final_Ques Spring18]()
 
