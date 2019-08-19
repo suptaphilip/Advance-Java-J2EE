@@ -11,7 +11,7 @@ The main goal of OOP is to bind data and code(methods) togather.
 *  use setter and getter methods to set and get the data in it.
 * The Java Bean class is the example of a fully encapsulated class.
 
-![student class diagram](J2EE/student-uml.png)
+![student class diagram](Student-Class.png)
 
 Student.java
 ```java
