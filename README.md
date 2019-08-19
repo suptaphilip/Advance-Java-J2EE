@@ -35,6 +35,8 @@
 
 >[Introduction](https://github.com/suptaphilip/Advance-Java-J2EE/blob/J2EE/L1.pdf)
 
+>[Java Language](https://github.com/suptaphilip/Advance-Java-J2EE/raw/J2EE/L2.pdf)
+
 >[UML Class Diagram Relationship](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/Class%20Diagram%20Relationships.pdf)
 
 ### Assignment
