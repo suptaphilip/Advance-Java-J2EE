@@ -54,6 +54,9 @@ public class StudentTest {
 * There are two ways to achieve abstraction in java
 	- Abstract class (0 to 100%)
 	- Interface (100%)
+	
+![Abstaction class diagram](Abstract2.png)	
+	
 ```java
 abstract class Bank {
 	abstract int getRateOfInterest();
@@ -81,6 +84,10 @@ class TestBank {
 	}
 }
 ```
+Same examples you can solve with interface.
+
+![Abstaction using Interface](Interface.png)	
+
 > ### 3.   Polymorphism
 > ### 4.   Inheritance
 
