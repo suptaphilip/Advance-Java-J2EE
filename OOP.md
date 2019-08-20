@@ -54,8 +54,39 @@ public class StudentTest {
 * There are two ways to achieve abstraction in java
 	- Abstract class (0 to 100%)
 	- Interface (100%)
+```java
+abstract class Bank {
+	abstract int getRateOfInterest();
+}
+
+class SBI extends Bank {
+	int getRateOfInterest() {
+		return 7;
+	}
+}
+
+class PNB extends Bank {
+	int getRateOfInterest() {
+		return 8;
+	}
+}
+
+class TestBank {
+	public static void main(String args[]) {
+		Bank b;
+		b = new SBI();
+		System.out.println("Rate of Interest is: " + b.getRateOfInterest() + " %");
+		b = new PNB();
+		System.out.println("Rate of Interest is: " + b.getRateOfInterest() + " %");
+	}
+}
+```
 > ### 3.   Polymorphism
 > ### 4.   Inheritance
+
+```java
+
+```
 
 > Apart from these, there are some other concepts which are used in Object-Oriented design:
 
