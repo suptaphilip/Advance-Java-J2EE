@@ -105,10 +105,17 @@ Same examples you can solve with interface.
 #### Compiletime polymorphism using method overloading
 ![Compiletime Polymorphism using method overloading ](https://github.com/suptaphilip/Advance-Java-J2EE/raw/J2EE/CompileTimePolymorphism.png)
 > ### 4.   Inheritance
+* Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object.
+* create new classes that are built upon existing classes.
+* Inheritance represents the IS-A relationship which is also known as a parent-child relationship.
 
 ```java
 
 ```
+
+> Watch the video tutorials
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/4AjCAKZPCOM/1.jpg)](https://www.youtube.com/watch?v=4AjCAKZPCOM&list=PLzS3AYzXBoj88SIyxN_6LWh92S-_49tlJ)
 
 > Apart from these, there are some other concepts which are used in Object-Oriented design:
 
