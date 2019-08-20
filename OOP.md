@@ -92,9 +92,11 @@ Same examples you can solve with interface.
 * Polymorphism in Java is a concept by which we can perform a single action in different ways.
 * There are two types of polymorphism in Java: compile-time polymorphism and runtime polymorphism.
 
-#### Runtime polymorphism using interface
+#### Runtime polymorphism using interface and method overriding 
 
-![Runtime Polymorphism using Interface](RuntimePolymorphism.png)	
+![Runtime Polymorphism using Interface](RuntimePolymorphism.png)
+
+#### Compiletime polymorphism using method overloading
 
 > ### 4.   Inheritance
 
