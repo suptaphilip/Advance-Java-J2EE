@@ -97,7 +97,7 @@ Same examples you can solve with interface.
 ![Runtime Polymorphism using Interface](RuntimePolymorphism.png)
 
 #### Compiletime polymorphism using method overloading
-
+![Compiletime Polymorphism using method overloading ](CompileTimePolymorphism.png)
 > ### 4.   Inheritance
 
 ```java
