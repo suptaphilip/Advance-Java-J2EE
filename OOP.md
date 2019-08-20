@@ -49,8 +49,18 @@ public class StudentTest {
 }
 
 ```
-> 2.   Abstruction
+> 2.   Abstraction
+* Abstraction is a process of hiding the implementation details and showing only functionality to the user.
+* There are two ways to achieve abstraction in java
+	- Abstract class (0 to 100%)
+	- Interface (100%)
 > 3.   Polymorphism
 > 4.   Inheritance
 
-> Here's some example code:
+> Apart from these, there are some other concepts which are used in Object-Oriented design:
+
+* Coupling
+* Cohesion
+* Association
+* Aggregation
+* Composition
