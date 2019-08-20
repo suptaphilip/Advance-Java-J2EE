@@ -1,4 +1,10 @@
-# Object oriented programming
+# City University
+#### Object oriented programming
+##### Lecture 3
+Supta Richard Philip
+supta.philip@gmail.com
+****
+
 
 The main goal of OOP is to bind data and code(methods) togather.
 
@@ -9,10 +15,10 @@ The main goal of OOP is to bind data and code(methods) togather.
 * Encapsulation in Java is a process of wrapping code and data together into a single unit.
 * create a fully encapsulated class in Java by making private all the data members of the class. 
 *  use setter and getter methods to set and get the data in it.
-* The Java Bean class is the example of a fully encapsulated class.
+* The Java Bean class or POJO class is the example of a fully encapsulated class.
 * Class Diagram of Student
 
-![student class diagram](Student-Class1.png)
+![student class diagram](https://github.com/suptaphilip/Advance-Java-J2EE/raw/J2EE/Student-Class1.png)
 
 Student.java
 ```java
@@ -55,7 +61,7 @@ public class StudentTest {
 	- Abstract class (0 to 100%)
 	- Interface (100%)
 	
-![Abstaction class diagram](Abstract2.png)	
+![Abstaction class diagram](https://github.com/suptaphilip/Advance-Java-J2EE/raw/J2EE/Abstract2.png)	
 	
 ```java
 abstract class Bank {
@@ -86,7 +92,7 @@ class TestBank {
 ```
 Same examples you can solve with interface.
 
-![Abstaction using Interface](Interface.png)	
+![Abstaction using Interface](https://github.com/suptaphilip/Advance-Java-J2EE/raw/J2EE/Interface.png)	
 
 > ### 3.   Polymorphism
 * Polymorphism in Java is a concept by which we can perform a single action in different ways.
@@ -94,10 +100,10 @@ Same examples you can solve with interface.
 
 #### Runtime polymorphism using interface and method overriding 
 
-![Runtime Polymorphism using Interface](RuntimePolymorphism.png)
+![Runtime Polymorphism using Interface](https://github.com/suptaphilip/Advance-Java-J2EE/raw/J2EE/RuntimePolymorphism.png)
 
 #### Compiletime polymorphism using method overloading
-![Compiletime Polymorphism using method overloading ](CompileTimePolymorphism.png)
+![Compiletime Polymorphism using method overloading ](https://github.com/suptaphilip/Advance-Java-J2EE/raw/J2EE/CompileTimePolymorphism.png)
 > ### 4.   Inheritance
 
 ```java
