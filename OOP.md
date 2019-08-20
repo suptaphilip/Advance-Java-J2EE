@@ -89,6 +89,13 @@ Same examples you can solve with interface.
 ![Abstaction using Interface](Interface.png)	
 
 > ### 3.   Polymorphism
+* Polymorphism in Java is a concept by which we can perform a single action in different ways.
+* There are two types of polymorphism in Java: compile-time polymorphism and runtime polymorphism.
+
+#### Runtime polymorphism using interface
+
+![Runtime Polymorphism using Interface](RuntimePolymorphism.png)	
+
 > ### 4.   Inheritance
 
 ```java
