@@ -147,6 +147,8 @@ public class Programmer extends Employee{
 
 > ### 5.   Association
 * Association refers to the relationship between multiple objects.
+![student class diagram](https://github.com/suptaphilip/Advance-Java-J2EE/raw/J2EE/Student-Class1.png)
+
 > ##### 5.1. Aggregation
 * Aggregation is a weak association.
 * An association is said to be aggregation if both Objects can exist independently.
