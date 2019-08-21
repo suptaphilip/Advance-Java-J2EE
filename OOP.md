@@ -150,8 +150,19 @@ public class Programmer extends Employee{
 > ##### 5.1. Aggregation
 * Aggregation is a weak association.
 * An association is said to be aggregation if both Objects can exist independently.
+![Aggregation](https://github.com/suptaphilip/Advance-Java-J2EE/raw/J2EE/Aggregation.png)
+```java
+
+```
 > ##### 5.2. Composition
 * The composition is the strong type of association.
-* An association is said to composition if an Object owns another object and another object cannot exist without the owner object. 
+* An association is said to composition if an Object owns another object and another object cannot exist without the owner object.
+![Composition](https://github.com/suptaphilip/Advance-Java-J2EE/raw/J2EE/Composition.png)
+
+> ##### 5.3. Generalization
+![Generalization](https://github.com/suptaphilip/Advance-Java-J2EE/raw/J2EE/Generalization.png)
+> ##### 5.4. Realization
+![Realization](https://github.com/suptaphilip/Advance-Java-J2EE/raw/J2EE/Realization.png)
+
 > ### 6.   Coupling
 > ### 7.   Cohesion
