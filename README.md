@@ -39,6 +39,8 @@
 
 >[Java IO](https://github.com/suptaphilip/Advance-Java-J2EE/raw/J2EE/L5.pdf)
 
+>[Java Thread](https://github.com/suptaphilip/Advance-Java-J2EE/raw/J2EE/Java%20Thread%20L6.pdf)
+
 ### Assignment
 > [Assignmet 1]() is uploaded. Submission date: 
 
